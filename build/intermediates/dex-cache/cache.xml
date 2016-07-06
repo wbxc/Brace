@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.4.7-aar\jars\libs\BmobSDK_V3.4.7_0527.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3d76714735345152034fd20b1bec30d3936abca4">
+        <dex dex="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\pre-dexed\release\BmobSDK_V3.4.7_0527_51c3127b99bdc069d65f12ea2cf224de7a0c52f2.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_7c40e3bdeea303a686dc3fe657baf233d62a63b3.jar" />
+    </item>
+    <item
+        jar="F:\androidsdk\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_26dd78a4ef6d6c32dc848a660fd41210d5ee2fa7.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.4.7-aar\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6e61818680190dec5f17afcbdd5761b85882b768">
+        <dex dex="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\pre-dexed\release\cn.bmob.android-bmob-sdk-3.4.7-aar_3ddf8f700fdd798ad8119b82b1ae94adc994cae4.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.4.0_73fb5774a08579719a10871f1df4799afb756936.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.4.0_f0c0741e62dcf6bb0569a94bda2d790816811686.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_68e5fc9352255f729f1a01c980135c994664c71c.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\pre-dexed\release\com.android.support-design-23.4.0_58490c99fff3673385bdb1adb1ef72014a4ced74.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.4.7-aar\jars\libs\okio-1.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="014ef0504f01d11401d5630d8dbd892e728096bb">
+        <dex dex="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\pre-dexed\release\okio-1.7.0_6bbb3d3eebb862a4ac90c12c4968328d7b9b8941.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.4.0_2dc844e0cd7490cf72dc57b95753f70fdf5b7657.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.4.7-aar\jars\libs\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4867241d5afab8d9885c3eb51f6cc8ea599d05b3">
+        <dex dex="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\pre-dexed\release\okhttp-3.2.0_200c724039f733c0915484222e3a88583477f7c9.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\AndroidStudioWorkPlace\LearnWorkPlace\Brace\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.4.0_bda64ee7979e0d8770cacb860d8ef139ddabc75d.jar" />
+    </item>
+
+</items>
